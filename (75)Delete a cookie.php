@@ -5,5 +5,5 @@ WAP in php to delete a cookie
     // Deleting a cookie
     setcookie("username", "", time()-3600);
     echo "<br>";
-    echo "This Program is written by Aaryan Goel 0221BCA163"
+    echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
