@@ -11,5 +11,5 @@ WAP to demonstrate string in php
     echo 'I\'ll be back'; // Displays: I'll be back
 
     echo "<br>";
-    echo "This Program is written by Aaryan Goel 0221BCA163"
+    echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
