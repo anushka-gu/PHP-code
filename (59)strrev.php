@@ -9,6 +9,5 @@ echo strrev("Hello world!");
 ?>
 
 <br>
-"This Program is written by Aaryan Goel 0221BCA163"
-</body>
+"This Program is written by Anushka Gupta 0221BCA155"
 </html>
