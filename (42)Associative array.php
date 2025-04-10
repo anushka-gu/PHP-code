@@ -20,7 +20,7 @@ WAP in php to demonstrate associative array
     echo "Salary of Twinkle is " . $salaries['twinkle'] . "<br />";
     echo "Salary of Zara is " . $salaries['zara'] . "<br />";
     echo "<br>";
-    echo "This Program is written by Aaryan Goel 0221BCA163"
+    echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
 
 </body>
