@@ -26,5 +26,5 @@ foreach($marks as $subject => $mark) {
 echo "Total Marks: " . $total_marks . " / 500\<br>";
 echo "Percentage: " . number_format($percentage, 2) . "%\<br>";
 echo "<br>";
-echo "This Program is written by Aaryan Goel 0221BCA163"
+echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
