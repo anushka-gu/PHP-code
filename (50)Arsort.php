@@ -18,7 +18,7 @@ WAP in php to demonstrate arsort() an array in descending order according to val
 ?>
 
 <br>
-"This Program is written by Aaryan Goel 0221BCA163"
+"This Program is written by Anushka Gupta 0221BCA155"
 
 </body>
 </html>
