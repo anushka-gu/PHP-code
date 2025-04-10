@@ -15,7 +15,7 @@ echo strlen($my_str);
 ?>
 
 <br>
-"This Program is written by Aaryan Goel 0221BCA163"
+"This Program is written by Anushka Gupta 0221BCA155"
 </body>
 </html>
 
