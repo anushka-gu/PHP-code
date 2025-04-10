@@ -22,5 +22,5 @@ WAP in php to open a text file and write some content to it
        echo "File $filename does not exit";
     }
       echo "<br>";
-      echo "This Program is written by Aaryan Goel 0221BCA163"
+      echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
