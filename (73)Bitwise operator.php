@@ -11,5 +11,5 @@ echo "~a = " . (~$a) . "<br>"; // Bitwise NOT
 echo "a << 1 = " . ($a << 1) . "<br>"; // Left shift
 echo "a >> 1 = " . ($a >> 1) . "<br>"; // Right shift
 echo "<br>";
-echo "This Program is written by Aaryan Goel 0221BCA163"
+echo "This Program is written by Anushka Gupta 0221BCA155"
 ?>
