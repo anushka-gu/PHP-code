@@ -29,6 +29,6 @@ WAP in php to  demonstrate to create database for your local computer
     $conn->close();
 
     echo "<br>";
-    echo "This Program is written by Aaryan Goel 0221BCA163";
+    echo "This Program is written by Anushka Gupta 0221BCA155";
 ?>
    
