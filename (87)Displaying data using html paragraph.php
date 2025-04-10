@@ -32,5 +32,5 @@ WAP in php to display data using html paragraph
     $conn->close();
 
 echo "<br>";
-echo "This Program is written by Aaryan Goel 0221BCA163";
+echo "This Program is written by Anushka Gupta 0221BCA155";
 ?>
